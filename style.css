@@ -77,6 +77,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans,
@@ -86,6 +89,7 @@ nav h1 {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+
 
 }
 
@@ -98,7 +102,11 @@ nav h1 {
   border-radius: 10px;
   background-color: transparent;
   color: white;
-  border: 2px solid red;
+  border: 2px solid red; 
+   font-family: "Orbitron", sans-serif;
+   padding: 12px 16px;
+   white-space: normal;
+   word-wrap: break-word;
 }
 
 
@@ -112,6 +120,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -130,6 +142,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -174,6 +187,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans11,
@@ -199,6 +215,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -215,6 +235,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -233,6 +257,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -276,6 +301,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans12,
@@ -298,6 +326,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -311,6 +343,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -329,6 +365,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -371,6 +408,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans13,
@@ -393,6 +433,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -406,6 +450,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -424,6 +472,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -467,6 +516,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans14,
@@ -489,6 +541,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -502,6 +558,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -520,6 +580,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -564,6 +625,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans15,
@@ -586,6 +650,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -599,6 +667,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -617,6 +689,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -662,6 +735,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans16,
@@ -684,6 +760,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -697,6 +777,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -715,6 +799,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -759,6 +844,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans17,
@@ -781,6 +869,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -794,6 +886,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -810,6 +906,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -852,6 +949,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans18,
@@ -874,6 +974,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -887,6 +991,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -903,6 +1011,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -946,6 +1055,9 @@ nav h1 {
   font-size: 40px;
   color: white;
   padding: 60px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .ans19,
@@ -968,6 +1080,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -981,6 +1097,10 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
+  padding: 12px 16px;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 
@@ -997,6 +1117,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 
@@ -1016,7 +1137,20 @@ nav h1 {
 }
 
 
-
+#qind,
+#qind1,
+#qind2,
+#qind3,
+#qind4,
+#qind5,
+#qind6,
+#qind7,
+#qind8,
+#qind9{
+  color: white;
+  font-size: 30px;
+  font-family: "Orbitron", sans-serif;
+}
 
 
 
@@ -1070,6 +1204,7 @@ nav h1 {
   background-color: transparent;
   color: white;
   border: 2px solid red;
+  font-family: "Orbitron", sans-serif;
 }
 
 /*Mobile Responsive*/
@@ -1113,6 +1248,9 @@ padding: 10px;
   #ques9 {
     font-size: 32px;
     padding: 40px 20px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
   }
 
   .ans button,
@@ -1226,6 +1364,9 @@ padding: 10px;
   #ques9 {
     font-size: 20px;
     padding: 20px 10px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
   }
 
@@ -1279,6 +1420,7 @@ padding: 10px;
     background-color: transparent;
     color: white;
     border: 2px solid red;
+    font-family: "Orbitron", sans-serif;
   }
 
   #next,
@@ -1300,6 +1442,7 @@ padding: 10px;
     background-color: transparent;
     color: white;
     border: 2px solid red;
+    font-family: "Orbitron", sans-serif;
   }
 
   #cw{
