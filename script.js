@@ -74,8 +74,8 @@ let next9 = document.getElementById("next9");
 let startcont9 = document.getElementById("startcont9");
 let rty = document.getElementById("rty");
 let ew = document.getElementById("ew");
+let comp = document.getElementById("comp");
 let endcont = document.getElementById("endcont");
-
 let i = 0;
 let score = 0;
 let points = document.getElementById("points")
@@ -95,9 +95,7 @@ opt0.addEventListener("click",()=>{
   text.style.display = "block";
   points.innerHTML="Points: "+score;
   next.style.display = "block";
-  i++;
-  text.style.left = "20%";
-  console.log(i);
+  text.style.left = "10%";
 })
 
 opt1.addEventListener("click",()=>{
@@ -109,9 +107,7 @@ opt1.addEventListener("click",()=>{
   text.style.display = "block";
   points.innerHTML="Points: "+score;
   next.style.display = "block";
-  i++;
   text.style.left = "20%";
-  console.log(i);
 })
 
 opt2.addEventListener("click",()=>{
@@ -124,9 +120,7 @@ opt2.addEventListener("click",()=>{
   score++;
   points.innerHTML="Points: "+score;
   next.style.display = "block";
-  i++;
-  text.style.left = "20%";
-  console.log(i);
+  text.style.left = "20%";;
 })
 
 
@@ -805,6 +799,7 @@ next1.addEventListener("click",()=>{
             next9.addEventListener("click",()=>{
               endcont.style.display = "block";
               rty.style.display = "block";
+              ew.style.display = "block";
               ew.innerHTML = "Your Final Score is: " + score;
               startcont.style.display = "none";
               next.style.display = "none";
@@ -819,15 +814,27 @@ next1.addEventListener("click",()=>{
               startcont9.style.display = "none";
               next9.style.display = "none";
               points.style.display = "none";
+               
               
-              
-              
+                            
+if(score >= 7){
+                  comp.innerHTML = "You did incredible. The way you understand the game, it’s beautiful. Like Messi in 2011.  -Pep Guardiola";
+                  comp.style.display = "block";
+                }
+                else if(score >= 5){ // Corrected condition: covers 5 <= i < 7
+                  comp.innerHTML = 'Decent. Not special… yet.   -Jose Mourinho';
+                  comp.style.display = "block";
+                }
+                else{ // This now correctly covers i < 5
+                  comp.innerHTML = 'This is not football. This is comedy.   -Jose Mourinho';
+                  comp.style.display = "block";
+                }
             })
 
               rty.addEventListener("click",()=>{
                 window.location.reload();
               })
-              
+
 
 
 
